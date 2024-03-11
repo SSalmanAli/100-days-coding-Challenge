@@ -86,5 +86,33 @@ Question 18: Seeing the World: Think of at least five places you’d like to vis
 
 Explain & TIP: Arrays can be ordered and reordered in various ways without altering the original list, useful for planning and organizing information.]
 
+# DAY-7
+[Question 19: Dinner Guests: Use one of your programs from Exercises 14 through 18 to print a message indicating the number of people you are inviting to dinner.
+
+Explain & TIP: Arrays have a length property that tells you how many items are in the list. Use this to inform your guests how big the party will be.
+
+
+Question 20: Think of something you could store in an array. For example, you could make a list of mountains, rivers, countries, cities, languages, or anything else you’d like. Write a program that creates a list containing these items.
+
+Explain & TIP: Arrays are perfect for keeping a collection of similar items. Choose a theme you like and list several examples.
+
+Question 21: Think of something you could store in a TypeScript Object. Write a program that creates Objects containing these items.
+
+Explain & TIP: Objects in TypeScript can store various related data about a single entity. Think of an object as a container for characteristics of something, like a book or a car.]
+
+# DAY-8
+[Question 22: Intentional Error: Try to produce an array index error in one of your programs. Correct the error before finishing.
+
+Explain & TIP: Array index errors happen when you try to access a position in the array that doesn’t exist. Experimenting with this helps you understand array boundaries.
+
+Question 23: Conditional Tests: Write a series of conditional tests. Predict the results of each test.
+
+Explain & TIP: Conditional tests check if something is true or false. Writing different tests helps you understand how conditions work in programming.
+
+Question 24: More Conditional Tests: Expand your conditional tests to cover a wider range of comparisons.
+
+Explain & TIP: Experiment with different types of conditions to see how they work. This builds a deeper understanding of logic in programming.]
+
+
 
 
