@@ -174,6 +174,23 @@ Loop through the array.
 
 Use an if-else chain inside the loop to print the proper ordinal ending for each number. Your output should read "1st 2nd 3rd 4th 5th 6th 7th 8th 9th", and each result should be on a separate line.]
 
+# Day-12
+[Question 34: Pizzas: Share your favorite pizzas and express your love for them.
+
+Explain & TIP: Use a for loop to iterate over your pizza list, allowing you to express your preference for each type. This demonstrates looping through an array and appending custom messages to each item.
+
+
+Question 35: Animals: Highlight animals with a common trait.
+
+Explain & TIP: Looping through an array of animals allows you to comment on each one individually. This teaches you how to personalize messages within a loop based on array items.
+
+Question 36: T-Shirt: Create a function for customizing t-shirts.
+
+Explain & TIP: Writing a function that accepts parameters allows you to reuse code efficiently. This introduces you to function parameters and printing dynamic content based on those parameters.
+
+Answer: Please try to do it yourself first!]
+
+
 
 
 
