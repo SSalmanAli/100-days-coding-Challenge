@@ -190,6 +190,32 @@ Explain & TIP: Writing a function that accepts parameters allows you to reuse co
 
 Answer: Please try to do it yourself first!]
 
+# Day-13
+[Question 37: Large Shirts: Default values in make_shirt().
+
+Explain & TIP: Modify functions to have default parameters, simplifying calls for common use cases. This introduces default function parameters.
+
+Question 38: Cities: Describing cities with a function.
+
+Explain & TIP: Use functions with default parameters to handle cases where certain data might not change often. This helps in making your code more flexible.
+
+Question 39: City Names: Formatting city-country pairs.
+
+Explain & TIP: Returning formatted strings from functions can simplify data presentation. This exercise practices string formatting and returning values from functions.]
+
+# Day-14
+[Question 40: Album: Create objects for music albums.
+
+Explain & TIP: Use functions to return objects. This exercise practices creating and manipulating objects, and introducing optional function parameters.
+
+Question 41: Magicians: Display magician names from an array.
+
+Explain & TIP: Passing arrays to functions allows for the manipulation or display of their contents in a centralized manner. This is useful for handling lists of data.
+
+Question 42: Great Magicians: Add "the Great" to magician names.
+
+Explain & TIP: Modifying array contents within a function demonstrates how functions can change data. This shows the impact of passing arrays by reference.]
+
 
 
 
